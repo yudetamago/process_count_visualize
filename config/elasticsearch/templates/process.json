@@ -1,0 +1,18 @@
+{
+  "process_count": {
+    "template": "process_count-*",
+    "mappings": {
+      "process_count": {
+        "properties": {
+          "@timestamp": {
+            "type": "date",
+            "format": "dateOptionalTime"
+          },
+          "process": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}

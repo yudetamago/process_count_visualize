@@ -2,4 +2,4 @@
 *.pos
 
 # log
-log/
+log/*.log

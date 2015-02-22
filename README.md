@@ -1,1 +1,1 @@
-flentd+elasticsearch+kibanaで何かを可視化したい
+fluentd+elasticsearch+kibanaで何かを可視化したい

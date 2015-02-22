@@ -1,0 +1,5 @@
+# fluentd pos file
+*.pos
+
+# log
+log/

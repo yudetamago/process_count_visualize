@@ -2,7 +2,7 @@
 *.pos
 
 # log
-log/*.log
+log/
 
 #kibana
 kibana/
